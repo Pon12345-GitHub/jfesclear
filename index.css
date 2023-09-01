@@ -27,7 +27,7 @@ button.btn {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
-  position: fixed;
+  position: absolute;
   left: 1235px;
   top: 850px;
   display: inline-block;
